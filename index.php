@@ -1,3 +1,9 @@
+<?php
+/*require_once 'vendor/autoload.php';
+$hello = new \framework\DB\DataBase();
+echo $hello->message;*/
+?>
+
 <!--
 =========================================================
 * Argon Dashboard 2 - v2.0.4
